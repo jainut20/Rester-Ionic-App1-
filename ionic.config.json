@@ -1,0 +1,7 @@
+{
+  "name": "rester",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
